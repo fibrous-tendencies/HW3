@@ -37,7 +37,7 @@ In the terminal on mac (or non-CUDA 11.8 compatible GPU), type the following com
 
 `mamba env create -f environment_default.yml`
 
-and then press enter. This will create a new environment called 'DESIGN-6197-4197-HW2' install the necessary packages. 
+and then press enter. This will create a new environment called 'DESIGN-6197-4197-HW3' install the necessary packages. 
 
 Once the environment is done installing, you should see some instructions on how to activate the environment. You can ignore this and just close out of the terminal window. 
 
@@ -48,7 +48,7 @@ Once the environment is done installing, you should see some instructions on how
 
 ### Step 3: Open the notebook
 
-In the file explorer on the left side of the screen there will be a file called HW2.ipynb. Click on this file to open it. You should see the notebook open in a new tab. 
+In the file explorer on the left side of the screen there will be a file called HW3.ipynb. Click on this file to open it. You should see the notebook open in a new tab. 
 
 At the top right-hand side of the tab you should see a button that says 'Select Kernel'. A kernel is basically the environment that the notebook runs in. You should see another menu pop up. It may say 'Select a Kernel Source', you should select the python one. Then select the environment that is called 'DESIGN-6197-4197-HW2'. If you are on a Mac, you may need to restart vs code before this environment will appear after running the `mamba env create` command.
 
